@@ -19,7 +19,7 @@ export default async function handler(req, res) {
       method: 'POST',
       headers: {
         'Client-ID': process.env.CLIENT_ID,
-        'Authorization': `Bearer ${process.env.ACCESS_TOKEN}`,
+        'Authorization': `Bearer ${mhgiho4ny20bty15vqy1zueelt5b1i}`,
         'Accept': 'application/json',
         'Content-Type': 'application/json',
       },
